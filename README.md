@@ -1,6 +1,6 @@
 # Cognizant-mock-hackathon
 
-## src code can be found at: CTS-Mock-Hackathon/Basics/src/
+## src code can be found at: Cognizant-mock-hackathon/Basics/src/
 
 This problem was solved in 2 different approaches:
 
