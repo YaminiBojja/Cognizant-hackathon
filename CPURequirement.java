@@ -32,7 +32,7 @@ class CPURequirement {
 			sampletransaction.put("sampletransaction", finaljson);
 			finalarray.add(sampletransaction);
 			System.out.println(finalarray);
-			FileWriter file = new FileWriter("F:\\Hackathon\\NFTIntern-master\\output.json");
+			FileWriter file = new FileWriter("F:\\Hackathon\\NFTIntern-master\\CPUoutput.json");
 			file.write(finalarray.toJSONString());
 			file.close();
 			fr.close();
